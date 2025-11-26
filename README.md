@@ -250,17 +250,6 @@ Contributions welcome! Please follow these steps:
 - Indian Government Data Portals
 - Kaggle Community
 
----
-**Built for the Agents Intensive - Capstone Project | Kaggle 2025**
-
-
-
-7. KAGGLE COMPETITION SUBMISSION WRITEUP (1300 words)
-=
-
-TITLE: GDI-Agent: Government Data Insight Agent - Multi-Agent AI for Evidence-Based Governance
-
-SUBTITLE: Transform 'weeks to minutes': Instant analytics for Indian government departments
 
 PROJECT DESCRIPTION:
 
